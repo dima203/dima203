@@ -2,4 +2,4 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dima203&layout=donut&hide_title=true&langs_count=5&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=dima203&layout=donut&hide_title=true&langs_count=5&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dima203&repo=MyMoney&theme=monokai&description_lines_count=1)](https://github.com/dima203/MyMoney)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=dima203&repo=dima203%2FSimpleTable&description_lines_count=3&theme=tokyonight)](https://github.com/dima203/SimpleTable)
